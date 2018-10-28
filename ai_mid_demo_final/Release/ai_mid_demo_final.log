@@ -1,0 +1,17 @@
+﻿  genetic_Alg.cpp
+genetic_Alg.cpp(67): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+genetic_Alg.cpp(67): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+genetic_Alg.cpp(327): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+genetic_Alg.cpp(356): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+genetic_Alg.cpp(458): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+genetic_Alg.cpp(497): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+genetic_Alg.cpp(499): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+genetic_Alg.cpp(501): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+genetic_Alg.cpp(503): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+genetic_Alg.cpp(505): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  1 of 292 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  ai_mid_demo_final.vcxproj -> C:\Users\Lee Dong Gyu\source\repos\ai_mid_demo_final (1)\Release\ai_mid_demo_final.exe

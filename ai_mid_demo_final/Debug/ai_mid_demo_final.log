@@ -1,0 +1,5 @@
+﻿  Tsp_Edge+323opt.cpp
+c:\users\lee dong gyu\source\repos\ai_mid_demo_final\ai_mid_demo_final\tsp_edge+323opt.cpp(75): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+c:\users\lee dong gyu\source\repos\ai_mid_demo_final\ai_mid_demo_final\tsp_edge+323opt.cpp(75): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+c:\users\lee dong gyu\source\repos\ai_mid_demo_final\ai_mid_demo_final\tsp_edge+323opt.cpp(512): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ai_mid_demo_final.vcxproj -> C:\Users\Lee Dong Gyu\Source\Repos\ai_mid_demo_final\Debug\ai_mid_demo_final.exe
